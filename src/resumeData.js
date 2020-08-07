@@ -3,7 +3,6 @@ let resumeData = {
     "name": "Evgeniy Oseledets",
     "role": "Frontend Developer",
     "vk":"https://vk.com/kaecep",
-    // "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies or simply play games in my free time.",
     "socialLinks":[
         {
