@@ -105,12 +105,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"This is a first testimonial",
+        "name":"First technical guy"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"This is a second testimonial",
+        "name":"Second technical guy"
       }
     ]
   }
