@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://ojenya.github.io/",
     "name": "Evgeniy Oseledets",
-    "role": "Frontend Developer",
+    "role": "Front-end Developer",
     "vk":"https://vk.com/kaecep",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies or simply play games in my free time.",
     "socialLinks":[
@@ -43,7 +43,8 @@ let resumeData = {
         "Achievements":"Bachelor"
       }
     ],
-    "work":[   {
+    "work":[ 
+      {
       "CompanyName":"Freelance",
       "specialization":"Frontend Developer",
       // "MonthOfLeaving":"April",
